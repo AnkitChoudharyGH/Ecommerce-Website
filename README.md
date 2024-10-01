@@ -1,4 +1,4 @@
-#Ecommerce-Website
+# Ecommerce-Website
 It's an online platform that allows individuals to sell products or services to consumers over the internet. <br>
 Features added on this website are as follows:<br>
   - Product Listing
@@ -18,6 +18,9 @@ and Suspense.
 - React, Redux, React Router, JWT and CSS(Sass).
 
 **TechStack Used:**
+
   -**HTML/CSS**
+
   -**Javascript**
+  
   -**React**
